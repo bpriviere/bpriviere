@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a Caltech PhD studying decision-making and control of autonomous robots. 
+
+
 <!--
 **bpriviere/bpriviere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
